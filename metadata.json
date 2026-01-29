@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EcoScan: Trash Classifier",
+  "description": "An AI-powered waste classification app that identifies glass, plastic, paper, and cardboard in photos with confidence percentages and recycling tips.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
